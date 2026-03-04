@@ -1,0 +1,4 @@
+Dữ liệu mẫu từ file
+Dòng 1: Thông tin sức khỏe
+Dòng 2: Tư vấn bác sĩ
+Dòng 3: Lời khuyên dinh dưỡng
